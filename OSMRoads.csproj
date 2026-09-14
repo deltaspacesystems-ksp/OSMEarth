@@ -12,8 +12,8 @@
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <Version>0.21.0</Version>
 
-    <!-- Instalacja KSP, z ktorej bierzemy referencje. -->
-    <KSPRoot>D:\ksp for mod testing</KSPRoot>
+
+    <KSPRoot>YOUR KSP ROOT HERE!!!!!!!!!!!!!!!!!!!!!!</KSPRoot>
     <KSPManaged>$(KSPRoot)\KSP_x64_Data\Managed</KSPManaged>
   </PropertyGroup>
 
