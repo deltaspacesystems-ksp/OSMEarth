@@ -1,0 +1,22 @@
+# Build output
+obj/
+bin/
+dist/
+Plugins/
+*.user
+.vs/
+
+# Local data / logs - not source, not meant to ship in the repo
+gugik/
+packs/
+*.log
+
+# Third-party tool binary (89 MB jar) - not our code, fetch separately
+tools/planetiler/*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# License server: private, kept out of the public repo
+tools/LicenseServer/

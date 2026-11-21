@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>planetpack</AssemblyName>
+    <RootNamespace>PlanetPack</RootNamespace>
+    <Nullable>disable</Nullable>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <Optimize>true</Optimize>
+    <TieredPGO>true</TieredPGO>
+    <!-- Workstation GC: serwerowy trzyma osobna sterte na kazdy rdzen i przy
+         20 GB magazynu wezlow potrafi dolozyc kilka GB wlasnego narzutu. -->
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>true</ConcurrentGarbageCollection>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Format dzielony z modem i ze starym OsmPack: jedno zrodlo prawdy. -->
+    <Compile Include="..\..\src\PackFormat.cs" />
+    <Compile Include="..\..\src\AreaKindShared.cs" />
+  </ItemGroup>
+</Project>

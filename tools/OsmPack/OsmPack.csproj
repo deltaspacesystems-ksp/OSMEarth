@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>osmpack</AssemblyName>
+    <RootNamespace>OsmPack</RootNamespace>
+    <Nullable>disable</Nullable>
+    <InvariantGlobalization>true</InvariantGlobalization>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="OsmSharp" Version="7.0.0-pre027" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Format dzielony z modem: jedno zrodlo prawdy, zero rozjazdu wersji. -->
+    <Compile Include="..\..\src\PackFormat.cs" />
+    <Compile Include="..\..\src\AreaKindShared.cs" Condition="Exists('..\..\src\AreaKindShared.cs')" />
+  </ItemGroup>
+</Project>

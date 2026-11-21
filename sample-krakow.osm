@@ -1,0 +1,2854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-08-30T22:31:36Z"/>
+
+  <way id="21094573">
+    <bounds minlat="50.0633876" minlon="19.9449224" maxlat="50.0645718" maxlon="19.9450688"/>
+    <nd ref="11026182315" lat="50.0645718" lon="19.9449302"/>
+    <nd ref="12890452870" lat="50.0645498" lon="19.9449246"/>
+    <nd ref="2420200270" lat="50.0645245" lon="19.9449224"/>
+    <nd ref="2989855530" lat="50.0644905" lon="19.9449240"/>
+    <nd ref="11026182313" lat="50.0643907" lon="19.9449418"/>
+    <nd ref="2420216135" lat="50.0641873" lon="19.9449748"/>
+    <nd ref="226835604" lat="50.0638328" lon="19.9450152"/>
+    <nd ref="13520421923" lat="50.0634994" lon="19.9450618"/>
+    <nd ref="13520421924" lat="50.0634435" lon="19.9450668"/>
+    <nd ref="6643622533" lat="50.0633876" lon="19.9450688"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="parking:condition:both" v="no_stopping"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="10"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="21141075">
+    <bounds minlat="50.0672662" minlon="19.9428439" maxlat="50.0672776" maxlon="19.9437108"/>
+    <nd ref="226834588" lat="50.0672662" lon="19.9428439"/>
+    <nd ref="2458448797" lat="50.0672730" lon="19.9429507"/>
+    <nd ref="2458448799" lat="50.0672754" lon="19.9430022"/>
+    <nd ref="5236411795" lat="50.0672767" lon="19.9431773"/>
+    <nd ref="1027047765" lat="50.0672766" lon="19.9434226"/>
+    <nd ref="2458448801" lat="50.0672775" lon="19.9436157"/>
+    <nd ref="226834652" lat="50.0672776" lon="19.9437108"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="23257439">
+    <bounds minlat="50.0610729" minlon="19.9441134" maxlat="50.0612371" maxlon="19.9473318"/>
+    <nd ref="6643622527" lat="50.0611665" lon="19.9441134"/>
+    <nd ref="11200542185" lat="50.0611636" lon="19.9441370"/>
+    <nd ref="2795733889" lat="50.0611412" lon="19.9442933"/>
+    <nd ref="5276426700" lat="50.0611131" lon="19.9444922"/>
+    <nd ref="9473990865" lat="50.0610873" lon="19.9446669"/>
+    <nd ref="9473990866" lat="50.0610797" lon="19.9447239"/>
+    <nd ref="251691067" lat="50.0610729" lon="19.9448043"/>
+    <nd ref="11767443197" lat="50.0610733" lon="19.9449121"/>
+    <nd ref="11767430482" lat="50.0610739" lon="19.9450442"/>
+    <nd ref="5276426701" lat="50.0610740" lon="19.9450792"/>
+    <nd ref="3002829594" lat="50.0610746" lon="19.9451464"/>
+    <nd ref="11767443238" lat="50.0610770" lon="19.9454113"/>
+    <nd ref="11767443242" lat="50.0610799" lon="19.9457399"/>
+    <nd ref="11767392317" lat="50.0610826" lon="19.9460350"/>
+    <nd ref="1743745812" lat="50.0610848" lon="19.9462835"/>
+    <nd ref="3002792271" lat="50.0610858" lon="19.9463125"/>
+    <nd ref="9473990868" lat="50.0610932" lon="19.9466182"/>
+    <nd ref="251691065" lat="50.0611021" lon="19.9468163"/>
+    <nd ref="1651547886" lat="50.0611409" lon="19.9470620"/>
+    <nd ref="12913197054" lat="50.0611914" lon="19.9472104"/>
+    <nd ref="276498392" lat="50.0612371" lon="19.9473318"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Mikołaja Kopernika"/>
+    <tag k="name:be" v="вуліца Міколы Каперніка"/>
+    <tag k="name:pl" v="Mikołaja Kopernika"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="23778392">
+    <bounds minlat="50.0625945" minlon="19.9303090" maxlat="50.0626308" maxlon="19.9320892"/>
+    <nd ref="257661109" lat="50.0625945" lon="19.9303090"/>
+    <nd ref="10312093108" lat="50.0625967" lon="19.9304094"/>
+    <nd ref="1417479899" lat="50.0626308" lon="19.9319297"/>
+    <nd ref="11125076163" lat="50.0626293" lon="19.9320638"/>
+    <nd ref="251688939" lat="50.0626276" lon="19.9320892"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Studencka"/>
+    <tag k="old_name" v="Świerczewskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366022"/>
+    <tag k="wikipedia" v="pl:Ulica Studencka w Krakowie"/>
+  </way>
+  <way id="23778393">
+    <bounds minlat="50.0619286" minlon="19.9305613" maxlat="50.0619393" maxlon="19.9317867"/>
+    <nd ref="257661136" lat="50.0619286" lon="19.9305613"/>
+    <nd ref="8512237288" lat="50.0619290" lon="19.9305882"/>
+    <nd ref="8512237290" lat="50.0619290" lon="19.9306181"/>
+    <nd ref="4881674684" lat="50.0619318" lon="19.9309874"/>
+    <nd ref="4070473686" lat="50.0619381" lon="19.9316346"/>
+    <nd ref="11125076170" lat="50.0619391" lon="19.9317633"/>
+    <nd ref="2419894856" lat="50.0619393" lon="19.9317867"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kapucyńska"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24076214">
+    <bounds minlat="50.0694327" minlon="19.9324567" maxlat="50.0699034" maxlon="19.9327807"/>
+    <nd ref="7740523115" lat="50.0699034" lon="19.9324567"/>
+    <nd ref="6129361905" lat="50.0696679" lon="19.9326200"/>
+    <nd ref="7740539182" lat="50.0694327" lon="19.9327807"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Łobzowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="24076215">
+    <bounds minlat="50.0658233" minlon="19.9348313" maxlat="50.0658389" maxlon="19.9351053"/>
+    <nd ref="226009900" lat="50.0658334" lon="19.9348313"/>
+    <nd ref="13923693697" lat="50.0658364" lon="19.9348892"/>
+    <nd ref="13964593132" lat="50.0658389" lon="19.9349643"/>
+    <nd ref="4044814584" lat="50.0658339" lon="19.9350371"/>
+    <nd ref="226009912" lat="50.0658233" lon="19.9351053"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Garbarska"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24157204">
+    <bounds minlat="50.0689381" minlon="19.9368663" maxlat="50.0692702" maxlon="19.9378918"/>
+    <nd ref="226010076" lat="50.0689381" lon="19.9368663"/>
+    <nd ref="3816240325" lat="50.0689738" lon="19.9369409"/>
+    <nd ref="6978260479" lat="50.0690967" lon="19.9373263"/>
+    <nd ref="2330932472" lat="50.0692386" lon="19.9378002"/>
+    <nd ref="10171224955" lat="50.0692614" lon="19.9378696"/>
+    <nd ref="226834098" lat="50.0692702" lon="19.9378918"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Słowiańska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk:left" v="no"/>
+    <tag k="sidewalk:right" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24157205">
+    <bounds minlat="50.0690419" minlon="19.9367487" maxlat="50.0693642" maxlon="19.9377967"/>
+    <nd ref="261673879" lat="50.0693642" lon="19.9377967"/>
+    <nd ref="10171224956" lat="50.0693570" lon="19.9377752"/>
+    <nd ref="2915911435" lat="50.0693370" lon="19.9377158"/>
+    <nd ref="10171223666" lat="50.0692323" lon="19.9373966"/>
+    <nd ref="6978260480" lat="50.0691897" lon="19.9372668"/>
+    <nd ref="2542650421" lat="50.0691350" lon="19.9371001"/>
+    <nd ref="3816240327" lat="50.0690598" lon="19.9368636"/>
+    <nd ref="261673880" lat="50.0690419" lon="19.9367487"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Słowiańska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:right" v="lane"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24157207">
+    <bounds minlat="50.0668717" minlon="19.9376904" maxlat="50.0675804" maxlon="19.9381051"/>
+    <nd ref="226010060" lat="50.0668717" lon="19.9381051"/>
+    <nd ref="13964593107" lat="50.0671984" lon="19.9379245"/>
+    <nd ref="1417479972" lat="50.0675071" lon="19.9377374"/>
+    <nd ref="226010068" lat="50.0675804" lon="19.9376904"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="parking:lane:both" v="parallel"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24157372">
+    <bounds minlat="50.0661662" minlon="19.9347466" maxlat="50.0672141" maxlon="19.9350191"/>
+    <nd ref="12680893555" lat="50.0672141" lon="19.9347466"/>
+    <nd ref="261675305" lat="50.0661662" lon="19.9350191"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Adama Asnyka"/>
+    <tag k="old_name" v="Łazienna"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="602118K"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="24157373">
+    <bounds minlat="50.0661662" minlon="19.9350191" maxlat="50.0661891" maxlon="19.9357590"/>
+    <nd ref="261675305" lat="50.0661662" lon="19.9350191"/>
+    <nd ref="4044818498" lat="50.0661686" lon="19.9351042"/>
+    <nd ref="261675307" lat="50.0661891" lon="19.9357590"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24157374">
+    <bounds minlat="50.0668024" minlon="19.9359695" maxlat="50.0672956" maxlon="19.9381051"/>
+    <nd ref="226010060" lat="50.0668717" lon="19.9381051"/>
+    <nd ref="5674230851" lat="50.0668714" lon="19.9380030"/>
+    <nd ref="4379638706" lat="50.0668373" lon="19.9368989"/>
+    <nd ref="261675308" lat="50.0668024" lon="19.9362316"/>
+    <nd ref="7648943803" lat="50.0671443" lon="19.9360486"/>
+    <nd ref="12680893556" lat="50.0672956" lon="19.9359695"/>
+    <tag k="alt_name" v="Sereno Fenna"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Sereno Fenn'a"/>
+    <tag k="old_name" v="Stefana Jaracza"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="source:name" v="http://www.bip.krakow.pl/_inc/rada/uchwaly/show_pdf.php?id=3395"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="url" v="http://www.gazetakrakowska.pl/artykul/294916,krakow-byki-w-nazwach-krakowskich-ulic,id,t.html"/>
+    <tag k="wikidata" v="Q9365932"/>
+    <tag k="wikipedia" v="pl:Ulica Sereno Fenn’a w Krakowie"/>
+  </way>
+  <way id="24157447">
+    <bounds minlat="50.0669240" minlon="19.9293467" maxlat="50.0671860" maxlon="19.9312670"/>
+    <nd ref="8636327843" lat="50.0669240" lon="19.9293467"/>
+    <nd ref="6799056156" lat="50.0669338" lon="19.9294204"/>
+    <nd ref="8636327842" lat="50.0671860" lon="19.9312670"/>
+    <tag k="cycleway:left" v="opposite_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:left" v="lane"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="half_on_kerb"/>
+    <tag k="parking:right:orientation" v="diagonal"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24157630">
+    <bounds minlat="50.0644941" minlon="19.9275976" maxlat="50.0649232" maxlon="19.9306882"/>
+    <nd ref="7726886581" lat="50.0649232" lon="19.9306882"/>
+    <nd ref="13256585361" lat="50.0648182" lon="19.9299634"/>
+    <nd ref="13256585356" lat="50.0648086" lon="19.9298972"/>
+    <nd ref="752177491" lat="50.0647784" lon="19.9296887"/>
+    <nd ref="273532900" lat="50.0646766" lon="19.9289890"/>
+    <nd ref="6499487946" lat="50.0645729" lon="19.9281988"/>
+    <nd ref="13321963777" lat="50.0645147" lon="19.9277592"/>
+    <nd ref="4187587206" lat="50.0645070" lon="19.9277010"/>
+    <nd ref="261677469" lat="50.0644941" lon="19.9275976"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rajska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9365896"/>
+    <tag k="wikipedia" v="pl:Ulica Rajska w Krakowie"/>
+  </way>
+  <way id="24165660">
+    <bounds minlat="50.0675366" minlon="19.9412436" maxlat="50.0679999" maxlon="19.9427773"/>
+    <nd ref="1936191716" lat="50.0675366" lon="19.9427773"/>
+    <nd ref="2330688598" lat="50.0675699" lon="19.9426710"/>
+    <nd ref="1317683470" lat="50.0676471" lon="19.9424166"/>
+    <nd ref="2915880298" lat="50.0678099" lon="19.9418439"/>
+    <nd ref="262193750" lat="50.0678357" lon="19.9417501"/>
+    <nd ref="2915880300" lat="50.0679671" lon="19.9413517"/>
+    <nd ref="262193738" lat="50.0679999" lon="19.9412436"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Świętego Filipa"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="8"/>
+  </way>
+  <way id="24187018">
+    <bounds minlat="50.0656559" minlon="19.9354604" maxlat="50.0662404" maxlon="19.9383827"/>
+    <nd ref="206372388" lat="50.0662404" lon="19.9383827"/>
+    <nd ref="6434150266" lat="50.0662396" lon="19.9383623"/>
+    <nd ref="206372386" lat="50.0661748" lon="19.9362932"/>
+    <nd ref="11085671822" lat="50.0661719" lon="19.9362415"/>
+    <nd ref="11085671821" lat="50.0661667" lon="19.9361932"/>
+    <nd ref="206372385" lat="50.0661587" lon="19.9361441"/>
+    <nd ref="11085671826" lat="50.0661505" lon="19.9361092"/>
+    <nd ref="11085671825" lat="50.0661386" lon="19.9360662"/>
+    <nd ref="206372384" lat="50.0661258" lon="19.9360309"/>
+    <nd ref="11085671827" lat="50.0661135" lon="19.9360040"/>
+    <nd ref="11085671824" lat="50.0660997" lon="19.9359770"/>
+    <nd ref="11085671823" lat="50.0660841" lon="19.9359498"/>
+    <nd ref="206372383" lat="50.0660652" lon="19.9359231"/>
+    <nd ref="11085671840" lat="50.0660434" lon="19.9358963"/>
+    <nd ref="226009919" lat="50.0656559" lon="19.9354604"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24215572">
+    <bounds minlat="50.0667003" minlon="19.9403302" maxlat="50.0678357" maxlon="19.9417501"/>
+    <nd ref="12633013975" lat="50.0668685" lon="19.9403302"/>
+    <nd ref="13840845038" lat="50.0668594" lon="19.9403649"/>
+    <nd ref="13840845037" lat="50.0668398" lon="19.9404417"/>
+    <nd ref="13840845036" lat="50.0668200" lon="19.9405188"/>
+    <nd ref="13840845035" lat="50.0668018" lon="19.9405907"/>
+    <nd ref="262193741" lat="50.0667003" lon="19.9409946"/>
+    <nd ref="14132994468" lat="50.0667715" lon="19.9410415"/>
+    <nd ref="1317683459" lat="50.0668431" lon="19.9410867"/>
+    <nd ref="5860876023" lat="50.0677640" lon="19.9416987"/>
+    <nd ref="14132994471" lat="50.0677911" lon="19.9417167"/>
+    <nd ref="262193750" lat="50.0678357" lon="19.9417501"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rynek Kleparski"/>
+    <tag k="name:de" v="Klöpper Markt"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk:left" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24215577">
+    <bounds minlat="50.0656845" minlon="19.9418098" maxlat="50.0672662" maxlon="19.9428448"/>
+    <nd ref="262193751" lat="50.0656845" lon="19.9418098"/>
+    <nd ref="6649676208" lat="50.0656968" lon="19.9418196"/>
+    <nd ref="5065261144" lat="50.0657498" lon="19.9418615"/>
+    <nd ref="2704306720" lat="50.0657963" lon="19.9418938"/>
+    <nd ref="13254979799" lat="50.0661010" lon="19.9421106"/>
+    <nd ref="262193753" lat="50.0670653" lon="19.9427871"/>
+    <nd ref="5236411797" lat="50.0671053" lon="19.9428156"/>
+    <nd ref="5236411796" lat="50.0671342" lon="19.9428331"/>
+    <nd ref="14001102460" lat="50.0671534" lon="19.9428409"/>
+    <nd ref="3477303423" lat="50.0671750" lon="19.9428448"/>
+    <nd ref="226834588" lat="50.0672662" lon="19.9428439"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Plac Jana Matejki"/>
+    <tag k="name:be" v="плошча Яна Мацейкі"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="short_name" v="Plac Matejki"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="7.6"/>
+    <tag k="wikidata" v="Q11819069"/>
+    <tag k="wikipedia" v="pl:Plac Jana Matejki w Krakowie"/>
+  </way>
+  <way id="24215583">
+    <bounds minlat="50.0657694" minlon="19.9415648" maxlat="50.0673969" maxlon="19.9427097"/>
+    <nd ref="1936191714" lat="50.0673969" lon="19.9427097"/>
+    <nd ref="14001102454" lat="50.0673896" lon="19.9426603"/>
+    <nd ref="14001102453" lat="50.0673793" lon="19.9426254"/>
+    <nd ref="5236411788" lat="50.0673644" lon="19.9425943"/>
+    <nd ref="5236411789" lat="50.0673423" lon="19.9425616"/>
+    <nd ref="3477303425" lat="50.0673261" lon="19.9425435"/>
+    <nd ref="207428888" lat="50.0664484" lon="19.9419954"/>
+    <nd ref="12265916713" lat="50.0659104" lon="19.9416585"/>
+    <nd ref="3477303424" lat="50.0658806" lon="19.9416392"/>
+    <nd ref="5065261143" lat="50.0658301" lon="19.9416063"/>
+    <nd ref="5065261145" lat="50.0657843" lon="19.9415752"/>
+    <nd ref="414635892" lat="50.0657694" lon="19.9415648"/>
+    <tag k="bicycle" v="use_sidepath"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Plac Jana Matejki"/>
+    <tag k="name:be" v="плошча Яна Мацейкі"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="psv" v="yes"/>
+    <tag k="short_name" v="Plac Matejki"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="7.6"/>
+    <tag k="wikidata" v="Q11819069"/>
+    <tag k="wikipedia" v="pl:Plac Jana Matejki w Krakowie"/>
+  </way>
+  <way id="24216185">
+    <bounds minlat="50.0695064" minlon="19.9382412" maxlat="50.0697889" maxlon="19.9397702"/>
+    <nd ref="262199985" lat="50.0697889" lon="19.9382412"/>
+    <nd ref="7961264627" lat="50.0697676" lon="19.9383468"/>
+    <nd ref="5797969617" lat="50.0696284" lon="19.9391038"/>
+    <nd ref="13840050443" lat="50.0696011" lon="19.9392503"/>
+    <nd ref="13840050444" lat="50.0695862" lon="19.9393306"/>
+    <nd ref="5797969627" lat="50.0695775" lon="19.9393773"/>
+    <nd ref="13283819144" lat="50.0695721" lon="19.9394067"/>
+    <nd ref="13283819143" lat="50.0695163" lon="19.9397121"/>
+    <nd ref="262199986" lat="50.0695064" lon="19.9397702"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Zygmunta Wróblewskiego"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24526222">
+    <bounds minlat="50.0625945" minlon="19.9302989" maxlat="50.0634819" maxlon="19.9303511"/>
+    <nd ref="257661100" lat="50.0634819" lon="19.9303511"/>
+    <nd ref="4187587190" lat="50.0634310" lon="19.9303478"/>
+    <nd ref="4068711125" lat="50.0626742" lon="19.9302989"/>
+    <nd ref="257661109" lat="50.0625945" lon="19.9303090"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Loretańska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24526224">
+    <bounds minlat="50.0623099" minlon="19.9277351" maxlat="50.0625945" maxlon="19.9303090"/>
+    <nd ref="257661109" lat="50.0625945" lon="19.9303090"/>
+    <nd ref="4187583986" lat="50.0625826" lon="19.9302050"/>
+    <nd ref="2522125006" lat="50.0623690" lon="19.9283040"/>
+    <nd ref="4187583985" lat="50.0623125" lon="19.9278131"/>
+    <nd ref="266695289" lat="50.0623099" lon="19.9277351"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Studencka"/>
+    <tag k="old_name" v="Świerczewskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366022"/>
+    <tag k="wikipedia" v="pl:Ulica Studencka w Krakowie"/>
+  </way>
+  <way id="24787972">
+    <bounds minlat="50.0646245" minlon="19.9449459" maxlat="50.0648218" maxlon="19.9449820"/>
+    <nd ref="2420153436" lat="50.0646245" lon="19.9449459"/>
+    <nd ref="12890452845" lat="50.0646391" lon="19.9449504"/>
+    <nd ref="11026182310" lat="50.0646897" lon="19.9449593"/>
+    <nd ref="11026182317" lat="50.0647650" lon="19.9449722"/>
+    <nd ref="2689497891" lat="50.0648218" lon="19.9449820"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pawia"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:condition:both" v="no_stopping"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24788158">
+    <bounds minlat="50.0685129" minlon="19.9444188" maxlat="50.0686238" maxlon="19.9451430"/>
+    <nd ref="6437552456" lat="50.0686238" lon="19.9444188"/>
+    <nd ref="3027071398" lat="50.0686006" lon="19.9445234"/>
+    <nd ref="6014023339" lat="50.0685630" lon="19.9446901"/>
+    <nd ref="310654613" lat="50.0685368" lon="19.9448191"/>
+    <nd ref="12890452745" lat="50.0685241" lon="19.9448927"/>
+    <nd ref="12890452746" lat="50.0685171" lon="19.9449597"/>
+    <nd ref="3586404867" lat="50.0685129" lon="19.9450165"/>
+    <nd ref="12890452748" lat="50.0685138" lon="19.9450599"/>
+    <nd ref="12890452747" lat="50.0685168" lon="19.9451047"/>
+    <nd ref="226010241" lat="50.0685213" lon="19.9451430"/>
+    <tag k="bus_bay" v="right"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxspeed:type" v="PL:zone30"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="24788592">
+    <bounds minlat="50.0663510" minlon="19.9434113" maxlat="50.0672776" maxlon="19.9437108"/>
+    <nd ref="226834652" lat="50.0672776" lon="19.9437108"/>
+    <nd ref="6217417543" lat="50.0672145" lon="19.9437007"/>
+    <nd ref="12870824119" lat="50.0667923" lon="19.9435852"/>
+    <nd ref="6217417539" lat="50.0664232" lon="19.9434492"/>
+    <nd ref="226834987" lat="50.0663510" lon="19.9434113"/>
+    <tag k="bus" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Zacisze"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="no"/>
+  </way>
+  <way id="25069178">
+    <bounds minlat="50.0675736" minlon="19.9386529" maxlat="50.0676280" maxlon="19.9395459"/>
+    <nd ref="272783546" lat="50.0676219" lon="19.9395459"/>
+    <nd ref="13839746181" lat="50.0676280" lon="19.9395151"/>
+    <nd ref="13839746180" lat="50.0676278" lon="19.9394762"/>
+    <nd ref="13839746177" lat="50.0676264" lon="19.9394520"/>
+    <nd ref="5707266588" lat="50.0675808" lon="19.9387724"/>
+    <nd ref="10171224934" lat="50.0675754" lon="19.9386766"/>
+    <nd ref="272783544" lat="50.0675736" lon="19.9386529"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krzywa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25069179">
+    <bounds minlat="50.0676219" minlon="19.9395459" maxlat="50.0683559" maxlon="19.9401181"/>
+    <nd ref="272783550" lat="50.0683559" lon="19.9401181"/>
+    <nd ref="5707266585" lat="50.0683161" lon="19.9400854"/>
+    <nd ref="13839746157" lat="50.0683017" lon="19.9400737"/>
+    <nd ref="13839746146" lat="50.0681974" lon="19.9399962"/>
+    <nd ref="13839746156" lat="50.0681894" lon="19.9399903"/>
+    <nd ref="13839746155" lat="50.0681303" lon="19.9399466"/>
+    <nd ref="13839746147" lat="50.0681062" lon="19.9399287"/>
+    <nd ref="13839746163" lat="50.0679996" lon="19.9398499"/>
+    <nd ref="13839746149" lat="50.0679774" lon="19.9398336"/>
+    <nd ref="13839746150" lat="50.0679009" lon="19.9397770"/>
+    <nd ref="13839746148" lat="50.0677709" lon="19.9396806"/>
+    <nd ref="13839746152" lat="50.0677573" lon="19.9396705"/>
+    <nd ref="13839746153" lat="50.0676911" lon="19.9396224"/>
+    <nd ref="13839746154" lat="50.0676730" lon="19.9396059"/>
+    <nd ref="13839746176" lat="50.0676662" lon="19.9395988"/>
+    <nd ref="272783546" lat="50.0676219" lon="19.9395459"/>
+    <tag k="cycleway:left" v="shared_lane"/>
+    <tag k="cycleway:left:lane" v="pictogram"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krótka"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25117113">
+    <bounds minlat="50.0679705" minlon="19.9307226" maxlat="50.0690883" maxlon="19.9312593"/>
+    <nd ref="254349500" lat="50.0690883" lon="19.9307226"/>
+    <nd ref="6339941697" lat="50.0690192" lon="19.9307550"/>
+    <nd ref="1372051522" lat="50.0685574" lon="19.9309727"/>
+    <nd ref="6860186895" lat="50.0682665" lon="19.9311092"/>
+    <nd ref="7149626429" lat="50.0682494" lon="19.9311176"/>
+    <nd ref="273470204" lat="50.0679705" lon="19.9312593"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jana Sobieskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="yes"/>
+    <tag k="parking:left:orientation" v="perpendicular"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25117187">
+    <bounds minlat="50.0674192" minlon="19.9284287" maxlat="50.0679705" maxlon="19.9312593"/>
+    <nd ref="273470204" lat="50.0679705" lon="19.9312593"/>
+    <nd ref="6129327194" lat="50.0679679" lon="19.9312116"/>
+    <nd ref="6905587092" lat="50.0679057" lon="19.9300230"/>
+    <nd ref="7794750421" lat="50.0678893" lon="19.9296423"/>
+    <nd ref="13964593101" lat="50.0678767" lon="19.9295077"/>
+    <nd ref="273470207" lat="50.0678491" lon="19.9293555"/>
+    <nd ref="7794090642" lat="50.0676712" lon="19.9289662"/>
+    <nd ref="4163271320" lat="50.0674617" lon="19.9285196"/>
+    <nd ref="9498411777" lat="50.0674280" lon="19.9284473"/>
+    <nd ref="262201253" lat="50.0674192" lon="19.9284287"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kremerowska"/>
+    <tag k="name:be" v="Крэмераўская вуліца"/>
+    <tag k="name:pl" v="Kremerowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25123135">
+    <bounds minlat="50.0610630" minlon="19.9304775" maxlat="50.0619286" maxlon="19.9305613"/>
+    <nd ref="273535365" lat="50.0610630" lon="19.9304777"/>
+    <nd ref="8512237308" lat="50.0611115" lon="19.9304775"/>
+    <nd ref="1918075242" lat="50.0614161" lon="19.9304860"/>
+    <nd ref="3039915915" lat="50.0617649" lon="19.9304917"/>
+    <nd ref="10312105011" lat="50.0618423" lon="19.9305144"/>
+    <nd ref="1305810456" lat="50.0618691" lon="19.9305222"/>
+    <nd ref="257661136" lat="50.0619286" lon="19.9305613"/>
+    <tag k="cycleway:left" v="no"/>
+    <tag k="cycleway:right" v="shoulder"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Loretańska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25123138">
+    <bounds minlat="50.0601835" minlon="19.9299148" maxlat="50.0610411" maxlon="19.9302260"/>
+    <nd ref="273535378" lat="50.0601835" lon="19.9302260"/>
+    <nd ref="10285258638" lat="50.0601954" lon="19.9302224"/>
+    <nd ref="8512281354" lat="50.0602583" lon="19.9302032"/>
+    <nd ref="3084757376" lat="50.0605941" lon="19.9300795"/>
+    <nd ref="8512281357" lat="50.0609483" lon="19.9299431"/>
+    <nd ref="8512281356" lat="50.0609714" lon="19.9299360"/>
+    <nd ref="273535377" lat="50.0610411" lon="19.9299148"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Czapskich"/>
+    <tag k="old_name" v="Zgoda"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:lane:both" v="parallel"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25148932">
+    <bounds minlat="50.0664484" minlon="19.9409946" maxlat="50.0667003" maxlon="19.9419954"/>
+    <nd ref="262193741" lat="50.0667003" lon="19.9409946"/>
+    <nd ref="596531123" lat="50.0664772" lon="19.9418835"/>
+    <nd ref="207428888" lat="50.0664484" lon="19.9419954"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Ignacego Jana Paderewskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25149946">
+    <bounds minlat="50.0612076" minlon="19.9317867" maxlat="50.0619393" maxlon="19.9320901"/>
+    <nd ref="2419894856" lat="50.0619393" lon="19.9317867"/>
+    <nd ref="11125076187" lat="50.0619168" lon="19.9317879"/>
+    <nd ref="11125076188" lat="50.0618922" lon="19.9317903"/>
+    <nd ref="11125076186" lat="50.0618683" lon="19.9317930"/>
+    <nd ref="11125076195" lat="50.0618509" lon="19.9317962"/>
+    <nd ref="2419894852" lat="50.0618334" lon="19.9318008"/>
+    <nd ref="11125076194" lat="50.0618163" lon="19.9318074"/>
+    <nd ref="30376953" lat="50.0617968" lon="19.9318158"/>
+    <nd ref="11125076651" lat="50.0617758" lon="19.9318252"/>
+    <nd ref="2419894837" lat="50.0612076" lon="19.9320901"/>
+    <tag k="cycleway:left" v="opposite_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (Mo-Su 13:00-14:00, 20:00-23:59, 00:00-09:30)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Floriana Straszewskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="25525865">
+    <bounds minlat="50.0602245" minlon="19.9437284" maxlat="50.0607462" maxlon="19.9447844"/>
+    <nd ref="6643622512" lat="50.0607462" lon="19.9437284"/>
+    <nd ref="10285274826" lat="50.0607357" lon="19.9437480"/>
+    <nd ref="2916175307" lat="50.0606821" lon="19.9438475"/>
+    <nd ref="4157622063" lat="50.0605245" lon="19.9441727"/>
+    <nd ref="4157622060" lat="50.0602450" lon="19.9447442"/>
+    <nd ref="7773022826" lat="50.0602245" lon="19.9447844"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Mikołaja Zyblikiewicza"/>
+    <tag k="name:be" v="вуліца Міколы Зыблікевіча"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9365653"/>
+    <tag k="wikipedia" v="pl:Ulica Mikołaja Zyblikiewicza w Krakowie"/>
+  </way>
+  <way id="25526035">
+    <bounds minlat="50.0627714" minlon="19.9449714" maxlat="50.0629296" maxlon="19.9469135"/>
+    <nd ref="278189880" lat="50.0629296" lon="19.9469135"/>
+    <nd ref="4022441214" lat="50.0629226" lon="19.9468345"/>
+    <nd ref="3002829595" lat="50.0628262" lon="19.9457115"/>
+    <nd ref="3855593488" lat="50.0627714" lon="19.9451253"/>
+    <nd ref="11200542186" lat="50.0627764" lon="19.9449914"/>
+    <nd ref="6643622531" lat="50.0627767" lon="19.9449714"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Marii Skłodowskiej-Curie"/>
+    <tag k="name:etymology:wikidata" v="Q7186"/>
+    <tag k="old_name" v="Pańska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="25599314">
+    <bounds minlat="50.0610630" minlon="19.9304777" maxlat="50.0612076" maxlon="19.9320901"/>
+    <nd ref="273535365" lat="50.0610630" lon="19.9304777"/>
+    <nd ref="273535363" lat="50.0611239" lon="19.9315149"/>
+    <nd ref="4068711115" lat="50.0611877" lon="19.9319518"/>
+    <nd ref="11125076181" lat="50.0612040" lon="19.9320665"/>
+    <nd ref="2419894837" lat="50.0612076" lon="19.9320901"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jabłonowskich"/>
+    <tag k="old_name" v="Stanisława Ziaji"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="37836175">
+    <bounds minlat="50.0658139" minlon="19.9391056" maxlat="50.0662782" maxlon="19.9414378"/>
+    <nd ref="596531118" lat="50.0658139" lon="19.9414378"/>
+    <nd ref="11104123712" lat="50.0661347" lon="19.9405142"/>
+    <nd ref="11104123711" lat="50.0661598" lon="19.9404389"/>
+    <nd ref="206372227" lat="50.0661809" lon="19.9403697"/>
+    <nd ref="11104123708" lat="50.0661987" lon="19.9403000"/>
+    <nd ref="11104123706" lat="50.0662092" lon="19.9402552"/>
+    <nd ref="3082457610" lat="50.0662276" lon="19.9401670"/>
+    <nd ref="11104123707" lat="50.0662408" lon="19.9400938"/>
+    <nd ref="206372226" lat="50.0662494" lon="19.9400375"/>
+    <nd ref="11104115598" lat="50.0662595" lon="19.9399564"/>
+    <nd ref="11104115597" lat="50.0662664" lon="19.9398947"/>
+    <nd ref="11104115596" lat="50.0662720" lon="19.9398259"/>
+    <nd ref="206372225" lat="50.0662768" lon="19.9397434"/>
+    <nd ref="11104115595" lat="50.0662782" lon="19.9396909"/>
+    <nd ref="11104115594" lat="50.0662782" lon="19.9396013"/>
+    <nd ref="2420153468" lat="50.0662688" lon="19.9393112"/>
+    <nd ref="2420711755" lat="50.0662685" lon="19.9392944"/>
+    <nd ref="5219326000" lat="50.0662631" lon="19.9391056"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="37844680">
+    <bounds minlat="50.0599542" minlon="19.9324137" maxlat="50.0605026" maxlon="19.9326733"/>
+    <nd ref="2419367482" lat="50.0605026" lon="19.9324137"/>
+    <nd ref="11125076631" lat="50.0604160" lon="19.9324542"/>
+    <nd ref="2419367472" lat="50.0603834" lon="19.9324702"/>
+    <nd ref="3024563489" lat="50.0599542" lon="19.9326733"/>
+    <tag k="cycleway:left" v="opposite_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Floriana Straszewskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="58108840">
+    <bounds minlat="50.0652704" minlon="19.9425533" maxlat="50.0654259" maxlon="19.9430409"/>
+    <nd ref="2420153454" lat="50.0652704" lon="19.9430409"/>
+    <nd ref="2420153455" lat="50.0653793" lon="19.9426947"/>
+    <nd ref="11104123713" lat="50.0654032" lon="19.9426204"/>
+    <nd ref="7741125817" lat="50.0654259" lon="19.9425533"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="78238136">
+    <bounds minlat="50.0675736" minlon="19.9382631" maxlat="50.0688453" maxlon="19.9386529"/>
+    <nd ref="261745757" lat="50.0688453" lon="19.9382631"/>
+    <nd ref="272783544" lat="50.0675736" lon="19.9386529"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Długa"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="78238137">
+    <bounds minlat="50.0657694" minlon="19.9414378" maxlat="50.0658139" maxlon="19.9415648"/>
+    <nd ref="414635892" lat="50.0657694" lon="19.9415648"/>
+    <nd ref="596531118" lat="50.0658139" lon="19.9414378"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="80526316">
+    <bounds minlat="50.0672662" minlon="19.9427088" maxlat="50.0673969" maxlon="19.9428439"/>
+    <nd ref="226834588" lat="50.0672662" lon="19.9428439"/>
+    <nd ref="14001102459" lat="50.0672683" lon="19.9428184"/>
+    <nd ref="9917780317" lat="50.0672724" lon="19.9427961"/>
+    <nd ref="14001102458" lat="50.0672840" lon="19.9427668"/>
+    <nd ref="11209027022" lat="50.0672990" lon="19.9427474"/>
+    <nd ref="14001102457" lat="50.0673169" lon="19.9427315"/>
+    <nd ref="14001102456" lat="50.0673369" lon="19.9427188"/>
+    <nd ref="14001102455" lat="50.0673560" lon="19.9427121"/>
+    <nd ref="11209027021" lat="50.0673722" lon="19.9427088"/>
+    <nd ref="1936191714" lat="50.0673969" lon="19.9427097"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Plac Jana Matejki"/>
+    <tag k="name:be" v="плошча Яна Мацейкі"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="short_name" v="Plac Matejki"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="11"/>
+    <tag k="wikidata" v="Q11819069"/>
+    <tag k="wikipedia" v="pl:Plac Jana Matejki w Krakowie"/>
+  </way>
+  <way id="82800563">
+    <bounds minlat="50.0662404" minlon="19.9383827" maxlat="50.0662631" maxlon="19.9391056"/>
+    <nd ref="5219326000" lat="50.0662631" lon="19.9391056"/>
+    <nd ref="11104115570" lat="50.0662570" lon="19.9388919"/>
+    <nd ref="4056300841" lat="50.0662562" lon="19.9388642"/>
+    <nd ref="206372388" lat="50.0662404" lon="19.9383827"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="82800604">
+    <bounds minlat="50.0601835" minlon="19.9302260" maxlat="50.0605026" maxlon="19.9324137"/>
+    <nd ref="2419367482" lat="50.0605026" lon="19.9324137"/>
+    <nd ref="11125076642" lat="50.0604999" lon="19.9323953"/>
+    <nd ref="2420708819" lat="50.0604826" lon="19.9322769"/>
+    <nd ref="11125076643" lat="50.0604750" lon="19.9322248"/>
+    <nd ref="3814275195" lat="50.0604662" lon="19.9321645"/>
+    <nd ref="13378958074" lat="50.0604062" lon="19.9317529"/>
+    <nd ref="6434150265" lat="50.0603672" lon="19.9314853"/>
+    <nd ref="13378958042" lat="50.0603210" lon="19.9311707"/>
+    <nd ref="2419821228" lat="50.0602259" lon="19.9305166"/>
+    <nd ref="5095185084" lat="50.0601984" lon="19.9303277"/>
+    <nd ref="273535378" lat="50.0601835" lon="19.9302260"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="highway:category:pl" v="3"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Marszałka Józefa Piłsudskiego"/>
+    <tag k="name:be" v="вуліца маршала Юзэфа Пілсудскага"/>
+    <tag k="old_name" v="Wolska;Manifestu Lipcowego"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="unsigned_ref" v="2259K"/>
+  </way>
+  <way id="101162131">
+    <bounds minlat="50.0688453" minlon="19.9378918" maxlat="50.0692702" maxlon="19.9382631"/>
+    <nd ref="226834098" lat="50.0692702" lon="19.9378918"/>
+    <nd ref="6051941840" lat="50.0692014" lon="19.9379579"/>
+    <nd ref="2543960378" lat="50.0689498" lon="19.9382018"/>
+    <nd ref="13565302950" lat="50.0689188" lon="19.9382263"/>
+    <nd ref="13565302949" lat="50.0688853" lon="19.9382461"/>
+    <nd ref="261745757" lat="50.0688453" lon="19.9382631"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Długa"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="117386959">
+    <bounds minlat="50.0698835" minlon="19.9448267" maxlat="50.0704019" maxlon="19.9450017"/>
+    <nd ref="226010253" lat="50.0704019" lon="19.9448267"/>
+    <nd ref="3586404852" lat="50.0702787" lon="19.9448441"/>
+    <nd ref="310654604" lat="50.0700888" lon="19.9448859"/>
+    <nd ref="226010249" lat="50.0698835" lon="19.9450017"/>
+    <tag k="access" v="permissive"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="goods" v="delivery @(21:00-08:00, 13:00-14:00)"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Pawia"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="yes"/>
+  </way>
+  <way id="127908435">
+    <bounds minlat="50.0660016" minlon="19.9445503" maxlat="50.0660370" maxlon="19.9450547"/>
+    <nd ref="258234589" lat="50.0660016" lon="19.9450547"/>
+    <nd ref="2704306736" lat="50.0660046" lon="19.9448816"/>
+    <nd ref="14130056875" lat="50.0660085" lon="19.9447523"/>
+    <nd ref="10168790087" lat="50.0660114" lon="19.9447139"/>
+    <nd ref="13034274543" lat="50.0660181" lon="19.9446494"/>
+    <nd ref="258234587" lat="50.0660279" lon="19.9445884"/>
+    <nd ref="7760545634" lat="50.0660370" lon="19.9445503"/>
+    <tag k="bus" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stanisława Worcella"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="no"/>
+  </way>
+  <way id="127998293">
+    <bounds minlat="50.0662631" minlon="19.9386529" maxlat="50.0675736" maxlon="19.9391056"/>
+    <nd ref="272783544" lat="50.0675736" lon="19.9386529"/>
+    <nd ref="6463081378" lat="50.0666552" lon="19.9389731"/>
+    <nd ref="3126102614" lat="50.0664202" lon="19.9390565"/>
+    <nd ref="11104115564" lat="50.0664078" lon="19.9390605"/>
+    <nd ref="11104115565" lat="50.0663915" lon="19.9390658"/>
+    <nd ref="11104115566" lat="50.0663226" lon="19.9390910"/>
+    <nd ref="11104115573" lat="50.0662763" lon="19.9391039"/>
+    <nd ref="5219326000" lat="50.0662631" lon="19.9391056"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="yes"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Długa"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="128052898">
+    <bounds minlat="50.0691503" minlon="19.9329560" maxlat="50.0692743" maxlon="19.9335038"/>
+    <nd ref="254349499" lat="50.0691503" lon="19.9329560"/>
+    <nd ref="5409330591" lat="50.0691658" lon="19.9330358"/>
+    <nd ref="8526620336" lat="50.0692294" lon="19.9333095"/>
+    <nd ref="1415947587" lat="50.0692645" lon="19.9334606"/>
+    <nd ref="1415947584" lat="50.0692743" lon="19.9335038"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Władysława Spasowskiego"/>
+    <tag k="sidewalk:left" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="139665961">
+    <bounds minlat="50.0672342" minlon="19.9312593" maxlat="50.0679705" maxlon="19.9316202"/>
+    <nd ref="273470204" lat="50.0679705" lon="19.9312593"/>
+    <nd ref="4163271315" lat="50.0672917" lon="19.9315970"/>
+    <nd ref="254349501" lat="50.0672342" lon="19.9316202"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jana Sobieskiego"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="147579536">
+    <bounds minlat="50.0607462" minlon="19.9437284" maxlat="50.0611665" maxlon="19.9441134"/>
+    <nd ref="6643622527" lat="50.0611665" lon="19.9441134"/>
+    <nd ref="2989799604" lat="50.0610994" lon="19.9440701"/>
+    <nd ref="2989855498" lat="50.0610038" lon="19.9439954"/>
+    <nd ref="226835987" lat="50.0609100" lon="19.9439081"/>
+    <nd ref="6643622512" lat="50.0607462" lon="19.9437284"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="parking:condition:right" v="no_stopping"/>
+    <tag k="parking:lane:left" v="marked"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:maxspeed" v="PL:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="147579538">
+    <bounds minlat="50.0595854" minlon="19.9421312" maxlat="50.0607462" maxlon="19.9437284"/>
+    <nd ref="6643622512" lat="50.0607462" lon="19.9437284"/>
+    <nd ref="2989855493" lat="50.0606166" lon="19.9435616"/>
+    <nd ref="10586069726" lat="50.0604638" lon="19.9433498"/>
+    <nd ref="12791536880" lat="50.0602853" lon="19.9431024"/>
+    <nd ref="5441319481" lat="50.0598061" lon="19.9424384"/>
+    <nd ref="2420216114" lat="50.0597222" lon="19.9423219"/>
+    <nd ref="2985286137" lat="50.0596481" lon="19.9422186"/>
+    <nd ref="6643622515" lat="50.0595854" lon="19.9421312"/>
+    <tag k="access:lanes" v="yes|no|no|yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="embedded_rails" v="yes"/>
+    <tag k="embedded_rails:lanes" v="no|yes|yes|no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="oneway:lanes" v="-1|-1|1|1"/>
+    <tag k="psv:lanes" v="yes|yes|yes|yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:maxspeed" v="PL:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="147579539">
+    <bounds minlat="50.0618254" minlon="19.9445030" maxlat="50.0627767" maxlon="19.9449714"/>
+    <nd ref="6643622531" lat="50.0627767" lon="19.9449714"/>
+    <nd ref="6643622530" lat="50.0626584" lon="19.9449468"/>
+    <nd ref="13520421931" lat="50.0625913" lon="19.9449258"/>
+    <nd ref="6643622529" lat="50.0625321" lon="19.9449017"/>
+    <nd ref="6643622528" lat="50.0624028" lon="19.9448443"/>
+    <nd ref="9590103981" lat="50.0618254" lon="19.9445030"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="parking:condition:right" v="no_stopping"/>
+    <tag k="parking:lane:left" v="marked"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:maxspeed" v="PL:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="147579540">
+    <bounds minlat="50.0627767" minlon="19.9449714" maxlat="50.0633876" maxlon="19.9450688"/>
+    <nd ref="6643622533" lat="50.0633876" lon="19.9450688"/>
+    <nd ref="2989855506" lat="50.0633417" lon="19.9450679"/>
+    <nd ref="13520421926" lat="50.0632897" lon="19.9450647"/>
+    <nd ref="226835711" lat="50.0630678" lon="19.9450251"/>
+    <nd ref="6643622531" lat="50.0627767" lon="19.9449714"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="parking:condition:right" v="no_stopping"/>
+    <tag k="parking:left" v="street_side"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:maxspeed" v="PL:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="177369914">
+    <bounds minlat="50.0672791" minlon="19.9338439" maxlat="50.0675376" maxlon="19.9339649"/>
+    <nd ref="261675297" lat="50.0675376" lon="19.9338439"/>
+    <nd ref="6129371547" lat="50.0674117" lon="19.9339058"/>
+    <nd ref="1417479968" lat="50.0672791" lon="19.9339649"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Łobzowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="177369915">
+    <bounds minlat="50.0658162" minlon="19.9339649" maxlat="50.0672791" maxlon="19.9345895"/>
+    <nd ref="1417479968" lat="50.0672791" lon="19.9339649"/>
+    <nd ref="11983033127" lat="50.0670676" lon="19.9340399"/>
+    <nd ref="226009891" lat="50.0666384" lon="19.9341673"/>
+    <nd ref="13964593130" lat="50.0665705" lon="19.9341888"/>
+    <nd ref="11983033126" lat="50.0665040" lon="19.9342149"/>
+    <nd ref="1317775852" lat="50.0664123" lon="19.9342576"/>
+    <nd ref="7711660908" lat="50.0662094" lon="19.9343669"/>
+    <nd ref="13964593131" lat="50.0660285" lon="19.9344623"/>
+    <nd ref="1417479955" lat="50.0659960" lon="19.9344829"/>
+    <nd ref="8534499723" lat="50.0658564" lon="19.9345638"/>
+    <nd ref="226009897" lat="50.0658162" lon="19.9345895"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Łobzowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="187972989">
+    <bounds minlat="50.0656845" minlon="19.9415648" maxlat="50.0657694" maxlon="19.9418098"/>
+    <nd ref="262193751" lat="50.0656845" lon="19.9418098"/>
+    <nd ref="414635892" lat="50.0657694" lon="19.9415648"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="goods" v="delivery"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="247686254">
+    <bounds minlat="50.0693642" minlon="19.9361798" maxlat="50.0713522" maxlon="19.9377967"/>
+    <nd ref="261675736" lat="50.0713522" lon="19.9361798"/>
+    <nd ref="7961351385" lat="50.0712354" lon="19.9362348"/>
+    <nd ref="13565302933" lat="50.0708452" lon="19.9364407"/>
+    <nd ref="13565302934" lat="50.0707839" lon="19.9364732"/>
+    <nd ref="261678742" lat="50.0707278" lon="19.9365075"/>
+    <nd ref="13565302935" lat="50.0706472" lon="19.9365616"/>
+    <nd ref="1917768359" lat="50.0705820" lon="19.9366110"/>
+    <nd ref="13265797337" lat="50.0705420" lon="19.9366485"/>
+    <nd ref="261678741" lat="50.0702084" lon="19.9369605"/>
+    <nd ref="5896120717" lat="50.0699706" lon="19.9371961"/>
+    <nd ref="10171223671" lat="50.0699254" lon="19.9372410"/>
+    <nd ref="6463081380" lat="50.0696536" lon="19.9375108"/>
+    <nd ref="6463081379" lat="50.0696178" lon="19.9375461"/>
+    <nd ref="2915911222" lat="50.0694525" lon="19.9377093"/>
+    <nd ref="261673879" lat="50.0693642" lon="19.9377967"/>
+    <tag k="bicycle" v="yes"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="emergency" v="yes"/>
+    <tag k="foot" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (18:00-10:00, 13:00-14:00)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Długa"/>
+    <tag k="parking:both" v="street_side"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="253839214">
+    <bounds minlat="50.0647679" minlon="19.9435781" maxlat="50.0650893" maxlon="19.9445161"/>
+    <nd ref="2420719963" lat="50.0647679" lon="19.9445161"/>
+    <nd ref="6927219388" lat="50.0649971" lon="19.9438478"/>
+    <nd ref="5323112765" lat="50.0650893" lon="19.9435781"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:bus" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="263325315">
+    <bounds minlat="50.0645570" minlon="19.9449302" maxlat="50.0646204" maxlon="19.9460623"/>
+    <nd ref="11026182315" lat="50.0645718" lon="19.9449302"/>
+    <nd ref="14015608892" lat="50.0645706" lon="19.9449435"/>
+    <nd ref="14015608893" lat="50.0645643" lon="19.9450105"/>
+    <nd ref="14015608891" lat="50.0645588" lon="19.9450696"/>
+    <nd ref="14015608894" lat="50.0645581" lon="19.9451293"/>
+    <nd ref="2689497890" lat="50.0645570" lon="19.9452136"/>
+    <nd ref="14015608895" lat="50.0645590" lon="19.9452965"/>
+    <nd ref="12890452876" lat="50.0645596" lon="19.9453227"/>
+    <nd ref="12890452875" lat="50.0645660" lon="19.9454006"/>
+    <nd ref="262206401" lat="50.0645721" lon="19.9454717"/>
+    <nd ref="6643622537" lat="50.0646204" lon="19.9460623"/>
+    <tag k="bus:backward" v="designated"/>
+    <tag k="cycleway" v="no"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="foot" v="use_sidepath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxheight" v="3.7"/>
+    <tag k="maxspeed:type" v="PL:urban"/>
+    <tag k="name" v="Lubicz"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bus" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:condition:both" v="no_stopping"/>
+    <tag k="sidewalk" v="no"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="266581922">
+    <bounds minlat="50.0619393" minlon="19.9317867" maxlat="50.0626276" maxlon="19.9320892"/>
+    <nd ref="251688939" lat="50.0626276" lon="19.9320892"/>
+    <nd ref="11125076151" lat="50.0626127" lon="19.9320768"/>
+    <nd ref="11125076152" lat="50.0625963" lon="19.9320636"/>
+    <nd ref="11125076153" lat="50.0625765" lon="19.9320488"/>
+    <nd ref="11125076154" lat="50.0625527" lon="19.9320311"/>
+    <nd ref="11125076157" lat="50.0625358" lon="19.9320198"/>
+    <nd ref="11125076155" lat="50.0625187" lon="19.9320097"/>
+    <nd ref="11125076156" lat="50.0625072" lon="19.9320032"/>
+    <nd ref="2419894863" lat="50.0624929" lon="19.9319963"/>
+    <nd ref="11125076191" lat="50.0620593" lon="19.9318085"/>
+    <nd ref="2419894858" lat="50.0620411" lon="19.9318026"/>
+    <nd ref="11125076192" lat="50.0620212" lon="19.9317980"/>
+    <nd ref="11125076190" lat="50.0619957" lon="19.9317928"/>
+    <nd ref="11125076189" lat="50.0619661" lon="19.9317884"/>
+    <nd ref="2419894856" lat="50.0619393" lon="19.9317867"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (Mo-Su 13:00-14:00, 20:00-23:59, 00:00-09:30)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Podwale"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="wikidata" v="Q9365820"/>
+    <tag k="wikipedia" v="pl:Ulica Podwale w Krakowie"/>
+  </way>
+  <way id="292300762">
+    <bounds minlat="50.0688538" minlon="19.9433655" maxlat="50.0695955" maxlon="19.9435983"/>
+    <nd ref="6014023353" lat="50.0695955" lon="19.9435983"/>
+    <nd ref="310654611" lat="50.0695309" lon="19.9435829"/>
+    <nd ref="5849951014" lat="50.0694265" lon="19.9435588"/>
+    <nd ref="8378611954" lat="50.0692764" lon="19.9435220"/>
+    <nd ref="1654598125" lat="50.0691642" lon="19.9434882"/>
+    <nd ref="9019897519" lat="50.0691104" lon="19.9434711"/>
+    <nd ref="14129874168" lat="50.0690829" lon="19.9434600"/>
+    <nd ref="207428883" lat="50.0688538" lon="19.9433655"/>
+    <tag k="bicycle" v="use_sidepath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="name:be" v="Варшаўская вуліца"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="307450605">
+    <bounds minlat="50.0656559" minlon="19.9351053" maxlat="50.0658233" maxlon="19.9354604"/>
+    <nd ref="226009912" lat="50.0658233" lon="19.9351053"/>
+    <nd ref="4044814579" lat="50.0658013" lon="19.9351749"/>
+    <nd ref="1417479939" lat="50.0657316" lon="19.9353068"/>
+    <nd ref="10285212281" lat="50.0656647" lon="19.9354434"/>
+    <nd ref="226009919" lat="50.0656559" lon="19.9354604"/>
+    <tag k="highway" v="residential"/>
+    <tag k="highway:category:pl" v="3"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Garbarska"/>
+    <tag k="note" v="Geoportal jest nieaktualny, pod koniec 2015 zakończył sie tu remont"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="2205K"/>
+  </way>
+  <way id="329646889">
+    <bounds minlat="50.0673969" minlon="19.9427097" maxlat="50.0675366" maxlon="19.9427773"/>
+    <nd ref="1936191714" lat="50.0673969" lon="19.9427097"/>
+    <nd ref="14001102452" lat="50.0674128" lon="19.9427156"/>
+    <nd ref="14001102451" lat="50.0674312" lon="19.9427242"/>
+    <nd ref="14001102450" lat="50.0674554" lon="19.9427367"/>
+    <nd ref="1936191716" lat="50.0675366" lon="19.9427773"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Plac Jana Matejki"/>
+    <tag k="name:be" v="плошча Яна Мацейкі"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="351911207">
+    <bounds minlat="50.0679050" minlon="19.9429778" maxlat="50.0688538" maxlon="19.9433655"/>
+    <nd ref="207428883" lat="50.0688538" lon="19.9433655"/>
+    <nd ref="3586404864" lat="50.0687996" lon="19.9433440"/>
+    <nd ref="207428885" lat="50.0682293" lon="19.9431130"/>
+    <nd ref="14129874120" lat="50.0679395" lon="19.9429941"/>
+    <nd ref="7741111582" lat="50.0679050" lon="19.9429778"/>
+    <tag k="bicycle" v="use_sidepath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="name:be" v="Варшаўская вуліца"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:condition:left" v="no_stopping"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="4"/>
+  </way>
+  <way id="364784222">
+    <bounds minlat="50.0640871" minlon="19.9337194" maxlat="50.0656559" maxlon="19.9354604"/>
+    <nd ref="226009919" lat="50.0656559" lon="19.9354604"/>
+    <nd ref="274089865" lat="50.0655659" lon="19.9353613"/>
+    <nd ref="4059030448" lat="50.0646658" lon="19.9343599"/>
+    <nd ref="251689931" lat="50.0645844" lon="19.9342694"/>
+    <nd ref="10716718986" lat="50.0642332" lon="19.9338800"/>
+    <nd ref="2104477182" lat="50.0641605" lon="19.9337972"/>
+    <nd ref="206372380" lat="50.0640871" lon="19.9337194"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="private"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (Mo-Su 13:00-14:00, 20:00-23:59, 00:00-09:30)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Juliana Dunajewskiego"/>
+    <tag k="note" v="Geoportal jest nieaktualny, pod koniec 2015 zakończył sie tu remont"/>
+    <tag k="old_name" v="1 Maja"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="wikidata" v="Q9365368"/>
+    <tag k="wikipedia" v="pl:Ulica Juliana Dunajewskiego w Krakowie"/>
+  </way>
+  <way id="418043110">
+    <bounds minlat="50.0693129" minlon="19.9378498" maxlat="50.0694701" maxlon="19.9380653"/>
+    <nd ref="7740626072" lat="50.0694701" lon="19.9380653"/>
+    <nd ref="4185025343" lat="50.0694240" lon="19.9380366"/>
+    <nd ref="4185025342" lat="50.0693685" lon="19.9379957"/>
+    <nd ref="2543465098" lat="50.0693388" lon="19.9379405"/>
+    <nd ref="10171224945" lat="50.0693186" lon="19.9378696"/>
+    <nd ref="4185025341" lat="50.0693129" lon="19.9378498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pędzichów"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q11837351"/>
+    <tag k="wikipedia" v="pl:Ulica Pędzichów w Krakowie"/>
+  </way>
+  <way id="540315636">
+    <bounds minlat="50.0672776" minlon="19.9437108" maxlat="50.0672786" maxlon="19.9441441"/>
+    <nd ref="226834652" lat="50.0672776" lon="19.9437108"/>
+    <nd ref="8378611958" lat="50.0672780" lon="19.9439011"/>
+    <nd ref="226010198" lat="50.0672786" lon="19.9441441"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="545627058">
+    <bounds minlat="50.0690419" minlon="19.9346386" maxlat="50.0708543" maxlon="19.9367487"/>
+    <nd ref="261673880" lat="50.0690419" lon="19.9367487"/>
+    <nd ref="3816240332" lat="50.0691400" lon="19.9366414"/>
+    <nd ref="261673881" lat="50.0699442" lon="19.9357048"/>
+    <nd ref="1417480001" lat="50.0707957" lon="19.9347107"/>
+    <nd ref="261673882" lat="50.0708543" lon="19.9346386"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="shared_lane"/>
+    <tag k="cycleway:right:lane" v="pictogram"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="lane"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="545627059">
+    <bounds minlat="50.0687937" minlon="19.9367487" maxlat="50.0690419" maxlon="19.9369733"/>
+    <nd ref="6452198523" lat="50.0687937" lon="19.9369733"/>
+    <nd ref="3816240323" lat="50.0688815" lon="19.9369137"/>
+    <nd ref="226010076" lat="50.0689381" lon="19.9368663"/>
+    <nd ref="261673880" lat="50.0690419" lon="19.9367487"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="545627582">
+    <bounds minlat="50.0672771" minlon="19.9395459" maxlat="50.0676219" maxlon="19.9405524"/>
+    <nd ref="272783547" lat="50.0672771" lon="19.9405524"/>
+    <nd ref="5715753238" lat="50.0673130" lon="19.9404475"/>
+    <nd ref="13839951674" lat="50.0673404" lon="19.9403677"/>
+    <nd ref="13839951675" lat="50.0673769" lon="19.9402609"/>
+    <nd ref="13839951676" lat="50.0674200" lon="19.9401362"/>
+    <nd ref="13839951677" lat="50.0674550" lon="19.9400344"/>
+    <nd ref="13839951678" lat="50.0674840" lon="19.9399507"/>
+    <nd ref="13839746184" lat="50.0675876" lon="19.9396481"/>
+    <nd ref="13839746178" lat="50.0675944" lon="19.9396281"/>
+    <nd ref="13839746179" lat="50.0676144" lon="19.9395687"/>
+    <nd ref="272783546" lat="50.0676219" lon="19.9395459"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krzywa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="545628462">
+    <bounds minlat="50.0690883" minlon="19.9307226" maxlat="50.0691503" maxlon="19.9329560"/>
+    <nd ref="254349499" lat="50.0691503" lon="19.9329560"/>
+    <nd ref="5924619170" lat="50.0691450" lon="19.9328264"/>
+    <nd ref="6339941700" lat="50.0690911" lon="19.9308395"/>
+    <nd ref="254349500" lat="50.0690883" lon="19.9307226"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Henryka Siemiradzkiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="yes"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="545628781">
+    <bounds minlat="50.0679999" minlon="19.9382631" maxlat="50.0688524" maxlon="19.9412436"/>
+    <nd ref="261745757" lat="50.0688453" lon="19.9382631"/>
+    <nd ref="10171224936" lat="50.0688467" lon="19.9382889"/>
+    <nd ref="2543960376" lat="50.0688524" lon="19.9383743"/>
+    <nd ref="2543960374" lat="50.0688019" lon="19.9386165"/>
+    <nd ref="13839902880" lat="50.0687689" lon="19.9387523"/>
+    <nd ref="13839902879" lat="50.0687376" lon="19.9388599"/>
+    <nd ref="13839902878" lat="50.0687060" lon="19.9389649"/>
+    <nd ref="13839902875" lat="50.0685763" lon="19.9393965"/>
+    <nd ref="13839902876" lat="50.0685573" lon="19.9394608"/>
+    <nd ref="13839902874" lat="50.0685472" lon="19.9394948"/>
+    <nd ref="13839902873" lat="50.0684744" lon="19.9397325"/>
+    <nd ref="13840050357" lat="50.0684062" lon="19.9399562"/>
+    <nd ref="13839902881" lat="50.0683914" lon="19.9400049"/>
+    <nd ref="272783550" lat="50.0683559" lon="19.9401181"/>
+    <nd ref="13839902882" lat="50.0683199" lon="19.9402358"/>
+    <nd ref="13839902885" lat="50.0683054" lon="19.9402821"/>
+    <nd ref="13839902884" lat="50.0682420" lon="19.9404852"/>
+    <nd ref="13839902883" lat="50.0682154" lon="19.9405702"/>
+    <nd ref="3010317940" lat="50.0681220" lon="19.9408677"/>
+    <nd ref="13839902887" lat="50.0681164" lon="19.9408855"/>
+    <nd ref="13839902886" lat="50.0681080" lon="19.9409123"/>
+    <nd ref="13839902888" lat="50.0680569" lon="19.9410752"/>
+    <nd ref="262193738" lat="50.0679999" lon="19.9412436"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Świętego Filipa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="551180073">
+    <bounds minlat="50.0650893" minlon="19.9430409" maxlat="50.0652704" maxlon="19.9435781"/>
+    <nd ref="5323112765" lat="50.0650893" lon="19.9435781"/>
+    <nd ref="2105382489" lat="50.0652011" lon="19.9432519"/>
+    <nd ref="2420153454" lat="50.0652704" lon="19.9430409"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="552854770">
+    <bounds minlat="50.0672797" minlon="19.9445811" maxlat="50.0672800" maxlon="19.9447256"/>
+    <nd ref="5337106650" lat="50.0672797" lon="19.9445811"/>
+    <nd ref="1027047775" lat="50.0672800" lon="19.9447256"/>
+    <tag k="bus_bay" v="right"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="552854771">
+    <bounds minlat="50.0672806" minlon="19.9449468" maxlat="50.0672918" maxlon="19.9450958"/>
+    <nd ref="5337106651" lat="50.0672806" lon="19.9449468"/>
+    <nd ref="3719851595" lat="50.0672808" lon="19.9449935"/>
+    <nd ref="12890452717" lat="50.0672822" lon="19.9450362"/>
+    <nd ref="14130056813" lat="50.0672847" lon="19.9450680"/>
+    <nd ref="14130056814" lat="50.0672890" lon="19.9450879"/>
+    <nd ref="14130056811" lat="50.0672918" lon="19.9450958"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="552854772">
+    <bounds minlat="50.0672793" minlon="19.9444429" maxlat="50.0672797" maxlon="19.9445811"/>
+    <nd ref="5337106652" lat="50.0672793" lon="19.9444429"/>
+    <nd ref="13256187716" lat="50.0672796" lon="19.9445339"/>
+    <nd ref="5337106650" lat="50.0672797" lon="19.9445811"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="619470183">
+    <bounds minlat="50.0672800" minlon="19.9447256" maxlat="50.0672806" maxlon="19.9449468"/>
+    <nd ref="1027047775" lat="50.0672800" lon="19.9447256"/>
+    <nd ref="5337106651" lat="50.0672806" lon="19.9449468"/>
+    <tag k="bus_bay" v="right"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="700118741">
+    <bounds minlat="50.0673621" minlon="19.9325580" maxlat="50.0673764" maxlon="19.9326624"/>
+    <nd ref="8636327841" lat="50.0673621" lon="19.9325580"/>
+    <nd ref="4531826513" lat="50.0673699" lon="19.9326149"/>
+    <nd ref="8636327840" lat="50.0673764" lon="19.9326624"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="706227764">
+    <bounds minlat="50.0619286" minlon="19.9303090" maxlat="50.0625945" maxlon="19.9305613"/>
+    <nd ref="257661136" lat="50.0619286" lon="19.9305613"/>
+    <nd ref="1390231279" lat="50.0619747" lon="19.9304954"/>
+    <nd ref="10312105009" lat="50.0619839" lon="19.9304856"/>
+    <nd ref="1390230833" lat="50.0620293" lon="19.9304369"/>
+    <nd ref="10312093107" lat="50.0625219" lon="19.9303254"/>
+    <nd ref="257661109" lat="50.0625945" lon="19.9303090"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Loretańska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="732685230">
+    <bounds minlat="50.0672786" minlon="19.9441441" maxlat="50.0672793" maxlon="19.9444429"/>
+    <nd ref="226010198" lat="50.0672786" lon="19.9441441"/>
+    <nd ref="5337106652" lat="50.0672793" lon="19.9444429"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Kurniki"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="width" v="7"/>
+  </way>
+  <way id="732685242">
+    <bounds minlat="50.0688065" minlon="19.9433655" maxlat="50.0688538" maxlon="19.9436073"/>
+    <nd ref="207428883" lat="50.0688538" lon="19.9433655"/>
+    <nd ref="3586404876" lat="50.0688383" lon="19.9434517"/>
+    <nd ref="7741097461" lat="50.0688065" lon="19.9436073"/>
+    <tag k="cycleway:left" v="shared_lane"/>
+    <tag k="cycleway:left:lane" v="pictogram"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxspeed:type" v="PL:zone30"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="733011779">
+    <bounds minlat="50.0649973" minlon="19.9322415" maxlat="50.0658162" maxlon="19.9345895"/>
+    <nd ref="226009897" lat="50.0658162" lon="19.9345895"/>
+    <nd ref="3764339050" lat="50.0657692" lon="19.9344404"/>
+    <nd ref="11735414317" lat="50.0655742" lon="19.9337693"/>
+    <nd ref="261673878" lat="50.0654700" lon="19.9334198"/>
+    <nd ref="11735414318" lat="50.0654147" lon="19.9332533"/>
+    <nd ref="7948760128" lat="50.0652705" lon="19.9328894"/>
+    <nd ref="13917555520" lat="50.0651631" lon="19.9326294"/>
+    <nd ref="1918054346" lat="50.0651286" lon="19.9325459"/>
+    <nd ref="13917555524" lat="50.0651208" lon="19.9325268"/>
+    <nd ref="13917555525" lat="50.0651167" lon="19.9325178"/>
+    <nd ref="13917555519" lat="50.0651075" lon="19.9324969"/>
+    <nd ref="13917555531" lat="50.0649973" lon="19.9322415"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Garbarska"/>
+    <tag k="oneway" v="no"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="825964223">
+    <bounds minlat="50.0659111" minlon="19.9350191" maxlat="50.0661662" maxlon="19.9351010"/>
+    <nd ref="261675305" lat="50.0661662" lon="19.9350191"/>
+    <nd ref="261675306" lat="50.0659111" lon="19.9351010"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Adama Asnyka"/>
+    <tag k="old_name" v="Łazienna"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="602118K"/>
+  </way>
+  <way id="827668695">
+    <bounds minlat="50.0649232" minlon="19.9306882" maxlat="50.0650312" maxlon="19.9313187"/>
+    <nd ref="240971032" lat="50.0650312" lon="19.9313187"/>
+    <nd ref="11125076658" lat="50.0650258" lon="19.9312974"/>
+    <nd ref="4067088408" lat="50.0649928" lon="19.9311586"/>
+    <nd ref="6866484858" lat="50.0649841" lon="19.9310946"/>
+    <nd ref="7726886581" lat="50.0649232" lon="19.9306882"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rajska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:condition:right" v="no_stopping"/>
+    <tag k="parking:lane:left" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9365896"/>
+    <tag k="wikipedia" v="pl:Ulica Rajska w Krakowie"/>
+  </way>
+  <way id="829258143">
+    <bounds minlat="50.0699034" minlon="19.9323025" maxlat="50.0701224" maxlon="19.9324567"/>
+    <nd ref="7740523114" lat="50.0701224" lon="19.9323025"/>
+    <nd ref="262199969" lat="50.0700242" lon="19.9323734"/>
+    <nd ref="1417479996" lat="50.0699402" lon="19.9324311"/>
+    <nd ref="7740523115" lat="50.0699034" lon="19.9324567"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Łobzowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="7.5"/>
+  </way>
+  <way id="829263695">
+    <bounds minlat="50.0689928" minlon="19.9327807" maxlat="50.0694327" maxlon="19.9330410"/>
+    <nd ref="7740539182" lat="50.0694327" lon="19.9327807"/>
+    <nd ref="1417479990" lat="50.0692557" lon="19.9329016"/>
+    <nd ref="254349499" lat="50.0691503" lon="19.9329560"/>
+    <nd ref="1417479980" lat="50.0690354" lon="19.9330180"/>
+    <nd ref="7740539183" lat="50.0689928" lon="19.9330410"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Łobzowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="6"/>
+  </way>
+  <way id="829263696">
+    <bounds minlat="50.0675376" minlon="19.9330410" maxlat="50.0689928" maxlon="19.9338439"/>
+    <nd ref="7740539183" lat="50.0689928" lon="19.9330410"/>
+    <nd ref="5829376039" lat="50.0685339" lon="19.9333143"/>
+    <nd ref="5829376031" lat="50.0684512" lon="19.9333632"/>
+    <nd ref="261675296" lat="50.0682025" lon="19.9335103"/>
+    <nd ref="261675297" lat="50.0675376" lon="19.9338439"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Łobzowska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="source:width" v="ARCore"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="829271057">
+    <bounds minlat="50.0662404" minlon="19.9381051" maxlat="50.0668717" maxlon="19.9383827"/>
+    <nd ref="206372388" lat="50.0662404" lon="19.9383827"/>
+    <nd ref="10285212283" lat="50.0662549" lon="19.9383807"/>
+    <nd ref="11104115559" lat="50.0662976" lon="19.9383731"/>
+    <nd ref="3126102606" lat="50.0663355" lon="19.9383596"/>
+    <nd ref="8508617755" lat="50.0663651" lon="19.9383510"/>
+    <nd ref="13964593106" lat="50.0668168" lon="19.9381399"/>
+    <nd ref="226010060" lat="50.0668717" lon="19.9381051"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="8"/>
+  </way>
+  <way id="829271216">
+    <bounds minlat="50.0675804" minlon="19.9375309" maxlat="50.0678516" maxlon="19.9376904"/>
+    <nd ref="226010068" lat="50.0675804" lon="19.9376904"/>
+    <nd ref="257686083" lat="50.0678516" lon="19.9375309"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829272137">
+    <bounds minlat="50.0678516" minlon="19.9374541" maxlat="50.0679836" maxlon="19.9375309"/>
+    <nd ref="257686083" lat="50.0678516" lon="19.9375309"/>
+    <nd ref="1417479973" lat="50.0679305" lon="19.9374840"/>
+    <nd ref="7740616919" lat="50.0679836" lon="19.9374541"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829272735">
+    <bounds minlat="50.0679836" minlon="19.9369733" maxlat="50.0687937" maxlon="19.9374541"/>
+    <nd ref="7740616919" lat="50.0679836" lon="19.9374541"/>
+    <nd ref="6452198523" lat="50.0687937" lon="19.9369733"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:lane" v="exclusive"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Krowoderska"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:both" v="yes"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829273148">
+    <bounds minlat="50.0694701" minlon="19.9380653" maxlat="50.0697889" maxlon="19.9382412"/>
+    <nd ref="262199985" lat="50.0697889" lon="19.9382412"/>
+    <nd ref="7740626072" lat="50.0694701" lon="19.9380653"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pędzichów"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q11837351"/>
+    <tag k="wikipedia" v="pl:Ulica Pędzichów w Krakowie"/>
+  </way>
+  <way id="829273420">
+    <bounds minlat="50.0697889" minlon="19.9382412" maxlat="50.0705539" maxlon="19.9386726"/>
+    <nd ref="7740654153" lat="50.0705539" lon="19.9386726"/>
+    <nd ref="7694749547" lat="50.0703183" lon="19.9385346"/>
+    <nd ref="13253057762" lat="50.0702609" lon="19.9385035"/>
+    <nd ref="262199985" lat="50.0697889" lon="19.9382412"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pędzichów"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q11837351"/>
+    <tag k="wikipedia" v="pl:Ulica Pędzichów w Krakowie"/>
+  </way>
+  <way id="829330957">
+    <bounds minlat="50.0654259" minlon="19.9420554" maxlat="50.0656012" maxlon="19.9425533"/>
+    <nd ref="7741125817" lat="50.0654259" lon="19.9425533"/>
+    <nd ref="7741125818" lat="50.0656012" lon="19.9420554"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829330958">
+    <bounds minlat="50.0656012" minlon="19.9418098" maxlat="50.0656845" maxlon="19.9420554"/>
+    <nd ref="7741125818" lat="50.0656012" lon="19.9420554"/>
+    <nd ref="1420009350" lat="50.0656465" lon="19.9419195"/>
+    <nd ref="262193751" lat="50.0656845" lon="19.9418098"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829330970">
+    <bounds minlat="50.0675366" minlon="19.9427773" maxlat="50.0679050" maxlon="19.9429778"/>
+    <nd ref="7741111582" lat="50.0679050" lon="19.9429778"/>
+    <nd ref="14129874119" lat="50.0677334" lon="19.9428947"/>
+    <nd ref="14129874118" lat="50.0677095" lon="19.9428822"/>
+    <nd ref="2458449025" lat="50.0676231" lon="19.9428322"/>
+    <nd ref="1936191716" lat="50.0675366" lon="19.9427773"/>
+    <tag k="bicycle" v="use_sidepath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="name:be" v="Варшаўская вуліца"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="829330981">
+    <bounds minlat="50.0686767" minlon="19.9436073" maxlat="50.0688065" maxlon="19.9441798"/>
+    <nd ref="7741097461" lat="50.0688065" lon="19.9436073"/>
+    <nd ref="12324221945" lat="50.0686767" lon="19.9441798"/>
+    <tag k="check_date" v="2024-07-18"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxspeed:type" v="PL:zone30"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829758634">
+    <bounds minlat="50.0648218" minlon="19.9449820" maxlat="50.0651884" maxlon="19.9450173"/>
+    <nd ref="2689497891" lat="50.0648218" lon="19.9449820"/>
+    <nd ref="10133231880" lat="50.0649506" lon="19.9449914"/>
+    <nd ref="14130056926" lat="50.0650083" lon="19.9449968"/>
+    <nd ref="7744429751" lat="50.0651884" lon="19.9450173"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Pawia"/>
+    <tag k="oneway" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="829761936">
+    <bounds minlat="50.0695955" minlon="19.9435983" maxlat="50.0699147" maxlon="19.9436748"/>
+    <nd ref="7744483611" lat="50.0699147" lon="19.9436748"/>
+    <nd ref="6014023353" lat="50.0695955" lon="19.9435983"/>
+    <tag k="bicycle" v="use_sidepath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="name:be" v="Варшаўская вуліца"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="yes"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="829762115">
+    <bounds minlat="50.0699147" minlon="19.9436748" maxlat="50.0701691" maxlon="19.9437354"/>
+    <nd ref="7744484790" lat="50.0701691" lon="19.9437354"/>
+    <nd ref="14129874193" lat="50.0701331" lon="19.9437275"/>
+    <nd ref="1317683406" lat="50.0700137" lon="19.9436973"/>
+    <nd ref="7744483611" lat="50.0699147" lon="19.9436748"/>
+    <tag k="bicycle" v="use_sidepath"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Warszawska"/>
+    <tag k="name:be" v="Варшаўская вуліца"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="3"/>
+  </way>
+  <way id="831144873">
+    <bounds minlat="50.0660370" minlon="19.9439464" maxlat="50.0662042" maxlon="19.9445503"/>
+    <nd ref="7760545634" lat="50.0660370" lon="19.9445503"/>
+    <nd ref="3891174647" lat="50.0661927" lon="19.9439880"/>
+    <nd ref="3005942050" lat="50.0662042" lon="19.9439464"/>
+    <tag k="bus" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stanisława Worcella"/>
+    <tag k="parking:left" v="no"/>
+    <tag k="parking:right" v="yes"/>
+    <tag k="parking:right:orientation" v="perpendicular"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="no"/>
+  </way>
+  <way id="831144874">
+    <bounds minlat="50.0662042" minlon="19.9434113" maxlat="50.0663510" maxlon="19.9439464"/>
+    <nd ref="3005942050" lat="50.0662042" lon="19.9439464"/>
+    <nd ref="258234586" lat="50.0662753" lon="19.9436959"/>
+    <nd ref="10244892283" lat="50.0663319" lon="19.9434879"/>
+    <nd ref="226834987" lat="50.0663510" lon="19.9434113"/>
+    <tag k="bus" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stanisława Worcella"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="no"/>
+  </way>
+  <way id="831145415">
+    <bounds minlat="50.0657647" minlon="19.9430132" maxlat="50.0663510" maxlon="19.9434113"/>
+    <nd ref="226834987" lat="50.0663510" lon="19.9434113"/>
+    <nd ref="6217417540" lat="50.0663169" lon="19.9433927"/>
+    <nd ref="1368862376" lat="50.0661458" lon="19.9432804"/>
+    <nd ref="5871113521" lat="50.0658126" lon="19.9430480"/>
+    <nd ref="7760551844" lat="50.0657647" lon="19.9430132"/>
+    <tag k="bus" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Zacisze"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:left" v="yes"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="no"/>
+  </way>
+  <way id="831145416">
+    <bounds minlat="50.0653793" minlon="19.9426947" maxlat="50.0657647" maxlon="19.9430132"/>
+    <nd ref="7760551844" lat="50.0657647" lon="19.9430132"/>
+    <nd ref="11104115590" lat="50.0654898" lon="19.9428280"/>
+    <nd ref="2704306696" lat="50.0654588" lon="19.9427967"/>
+    <nd ref="11104115591" lat="50.0654425" lon="19.9427780"/>
+    <nd ref="6649676211" lat="50.0653905" lon="19.9427085"/>
+    <nd ref="2420153455" lat="50.0653793" lon="19.9426947"/>
+    <tag k="bus" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Zacisze"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="yes"/>
+    <tag k="parking:both:orientation" v="parallel"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="good"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tourist_bus" v="no"/>
+  </way>
+  <way id="832588203">
+    <bounds minlat="50.0598224" minlon="19.9447844" maxlat="50.0602245" maxlon="19.9455596"/>
+    <nd ref="7773022826" lat="50.0602245" lon="19.9447844"/>
+    <nd ref="3002398206" lat="50.0600107" lon="19.9452050"/>
+    <nd ref="278186353" lat="50.0598224" lon="19.9455596"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweight" v="2.5"/>
+    <tag k="name" v="Mikołaja Zyblikiewicza"/>
+    <tag k="name:be" v="вуліца Міколы Зыблікевіча"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9365653"/>
+    <tag k="wikipedia" v="pl:Ulica Mikołaja Zyblikiewicza w Krakowie"/>
+  </way>
+  <way id="931556860">
+    <bounds minlat="50.0672054" minlon="19.9314087" maxlat="50.0672342" maxlon="19.9316202"/>
+    <nd ref="6512064523" lat="50.0672054" lon="19.9314087"/>
+    <nd ref="254349501" lat="50.0672342" lon="19.9316202"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="931556861">
+    <bounds minlat="50.0675219" minlon="19.9337286" maxlat="50.0675376" maxlon="19.9338439"/>
+    <nd ref="1417479970" lat="50.0675219" lon="19.9337286"/>
+    <nd ref="261675297" lat="50.0675376" lon="19.9338439"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="931556862">
+    <bounds minlat="50.0673764" minlon="19.9326624" maxlat="50.0675219" maxlon="19.9337286"/>
+    <nd ref="8636327840" lat="50.0673764" lon="19.9326624"/>
+    <nd ref="10171224923" lat="50.0674430" lon="19.9331505"/>
+    <nd ref="1417479970" lat="50.0675219" lon="19.9337286"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="931556863">
+    <bounds minlat="50.0672342" minlon="19.9316202" maxlat="50.0673621" maxlon="19.9325580"/>
+    <nd ref="254349501" lat="50.0672342" lon="19.9316202"/>
+    <nd ref="8636327841" lat="50.0673621" lon="19.9325580"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="parking:lane:right" v="diagonal"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="931556864">
+    <bounds minlat="50.0671860" minlon="19.9312670" maxlat="50.0672054" maxlon="19.9314087"/>
+    <nd ref="8636327842" lat="50.0671860" lon="19.9312670"/>
+    <nd ref="6512064523" lat="50.0672054" lon="19.9314087"/>
+    <tag k="cycleway:left" v="opposite_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Stefana Batorego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="978174226">
+    <bounds minlat="50.0693129" minlon="19.9377967" maxlat="50.0693642" maxlon="19.9378498"/>
+    <nd ref="261673879" lat="50.0693642" lon="19.9377967"/>
+    <nd ref="4185025341" lat="50.0693129" lon="19.9378498"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Długa"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="978174228">
+    <bounds minlat="50.0692702" minlon="19.9378498" maxlat="50.0693129" maxlon="19.9378918"/>
+    <nd ref="4185025341" lat="50.0693129" lon="19.9378498"/>
+    <nd ref="226834098" lat="50.0692702" lon="19.9378918"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Długa"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1014200789">
+    <bounds minlat="50.0658162" minlon="19.9345895" maxlat="50.0658334" maxlon="19.9348313"/>
+    <nd ref="226009897" lat="50.0658162" lon="19.9345895"/>
+    <nd ref="13966061683" lat="50.0658265" lon="19.9346715"/>
+    <nd ref="226009900" lat="50.0658334" lon="19.9348313"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="2"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Garbarska"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1041703629">
+    <bounds minlat="50.0611665" minlon="19.9441134" maxlat="50.0618254" maxlon="19.9445030"/>
+    <nd ref="9590103981" lat="50.0618254" lon="19.9445030"/>
+    <nd ref="6643622527" lat="50.0611665" lon="19.9441134"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="parking:condition:right" v="no_stopping"/>
+    <tag k="parking:lane:left" v="marked"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="intermediate"/>
+    <tag k="source:maxspeed" v="PL:urban"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="1059743511">
+    <bounds minlat="50.0646236" minlon="19.9449459" maxlat="50.0646310" maxlon="19.9451187"/>
+    <nd ref="4458015521" lat="50.0646310" lon="19.9451187"/>
+    <nd ref="12890452871" lat="50.0646267" lon="19.9450392"/>
+    <nd ref="8551858405" lat="50.0646250" lon="19.9450058"/>
+    <nd ref="12890452872" lat="50.0646236" lon="19.9449667"/>
+    <nd ref="2420153436" lat="50.0646245" lon="19.9449459"/>
+    <tag k="dual_carriageway" v="yes"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20"/>
+    <tag k="name" v="Lubicz"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="parking:condition:both" v="no_stopping"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1096968966">
+    <bounds minlat="50.0646245" minlon="19.9445161" maxlat="50.0647679" maxlon="19.9449459"/>
+    <nd ref="2420153436" lat="50.0646245" lon="19.9449459"/>
+    <nd ref="2420717852" lat="50.0646533" lon="19.9448513"/>
+    <nd ref="2989854411" lat="50.0646746" lon="19.9447886"/>
+    <nd ref="2420719963" lat="50.0647679" lon="19.9445161"/>
+    <tag k="hgv" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1332013734">
+    <bounds minlat="50.0686238" minlon="19.9441798" maxlat="50.0686767" maxlon="19.9444188"/>
+    <nd ref="12324221945" lat="50.0686767" lon="19.9441798"/>
+    <nd ref="6437552456" lat="50.0686238" lon="19.9444188"/>
+    <tag k="bus_bay" v="right"/>
+    <tag k="check_date" v="2024-07-18"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxspeed:type" v="PL:zone30"/>
+    <tag k="name" v="Ogrodowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1364233924">
+    <bounds minlat="50.0669852" minlon="19.9402690" maxlat="50.0679999" maxlon="19.9412436"/>
+    <nd ref="262193738" lat="50.0679999" lon="19.9412436"/>
+    <nd ref="2915880299" lat="50.0679383" lon="19.9411851"/>
+    <nd ref="13840845033" lat="50.0679013" lon="19.9411496"/>
+    <nd ref="13840845032" lat="50.0678663" lon="19.9411163"/>
+    <nd ref="13840845031" lat="50.0678320" lon="19.9410837"/>
+    <nd ref="13840845030" lat="50.0677751" lon="19.9410299"/>
+    <nd ref="13840845078" lat="50.0677593" lon="19.9410148"/>
+    <nd ref="13840845029" lat="50.0676958" lon="19.9409541"/>
+    <nd ref="13840845028" lat="50.0675988" lon="19.9408604"/>
+    <nd ref="13840845027" lat="50.0674849" lon="19.9407514"/>
+    <nd ref="13840845026" lat="50.0673811" lon="19.9406519"/>
+    <nd ref="272783547" lat="50.0672771" lon="19.9405524"/>
+    <nd ref="13840845025" lat="50.0671642" lon="19.9404449"/>
+    <nd ref="13840845024" lat="50.0670588" lon="19.9403451"/>
+    <nd ref="12633013971" lat="50.0669852" lon="19.9402690"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rynek Kleparski"/>
+    <tag k="name:de" v="Klöpper Markt"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1364233925">
+    <bounds minlat="50.0668685" minlon="19.9401876" maxlat="50.0669852" maxlon="19.9403302"/>
+    <nd ref="12633013971" lat="50.0669852" lon="19.9402690"/>
+    <nd ref="13840854294" lat="50.0669528" lon="19.9402362"/>
+    <nd ref="262193740" lat="50.0669049" lon="19.9401876"/>
+    <nd ref="2915880297" lat="50.0668784" lon="19.9402910"/>
+    <nd ref="12633013975" lat="50.0668685" lon="19.9403302"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Rynek Kleparski"/>
+    <tag k="name:de" v="Klöpper Markt"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="sidewalk:left" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="sett"/>
+  </way>
+  <way id="1419958808">
+    <bounds minlat="50.0596809" minlon="19.9267795" maxlat="50.0601835" maxlon="19.9302260"/>
+    <nd ref="273535378" lat="50.0601835" lon="19.9302260"/>
+    <nd ref="4146843723" lat="50.0601187" lon="19.9297815"/>
+    <nd ref="3037977535" lat="50.0598556" lon="19.9279772"/>
+    <nd ref="2616178230" lat="50.0598412" lon="19.9278784"/>
+    <nd ref="268800779" lat="50.0597833" lon="19.9274812"/>
+    <nd ref="3531321672" lat="50.0597652" lon="19.9273572"/>
+    <nd ref="2419821216" lat="50.0596809" lon="19.9267795"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="highway:category:pl" v="3"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxweightrating:hgv" v="7.5"/>
+    <tag k="name" v="Marszałka Józefa Piłsudskiego"/>
+    <tag k="name:be" v="вуліца маршала Юзэфа Пілсудскага"/>
+    <tag k="old_name" v="Wolska;Manifestu Lipcowego"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="2259K"/>
+  </way>
+  <way id="1419958809">
+    <bounds minlat="50.0605026" minlon="19.9320901" maxlat="50.0612076" maxlon="19.9324137"/>
+    <nd ref="2419894837" lat="50.0612076" lon="19.9320901"/>
+    <nd ref="2419894836" lat="50.0611178" lon="19.9321327"/>
+    <nd ref="11125076202" lat="50.0608520" lon="19.9322550"/>
+    <nd ref="2420708827" lat="50.0606218" lon="19.9323576"/>
+    <nd ref="2419367482" lat="50.0605026" lon="19.9324137"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lane_markings" v="no"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle" v="yes"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (Mo-Su 13:00-14:00, 20:00-23:59, 00:00-09:30)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Floriana Straszewskiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="parking:both" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+  </way>
+  <way id="1419958810">
+    <bounds minlat="50.0610411" minlon="19.9299148" maxlat="50.0610630" maxlon="19.9304777"/>
+    <nd ref="273535377" lat="50.0610411" lon="19.9299148"/>
+    <nd ref="273535365" lat="50.0610630" lon="19.9304777"/>
+    <tag k="check_date" v="2025-12-15"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Jabłonowskich"/>
+    <tag k="old_name" v="Stanisława Ziaji"/>
+    <tag k="oneway" v="no"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="1472923639">
+    <bounds minlat="50.0645718" minlon="19.9435781" maxlat="50.0650893" maxlon="19.9449302"/>
+    <nd ref="5323112765" lat="50.0650893" lon="19.9435781"/>
+    <nd ref="13514150083" lat="50.0650681" lon="19.9435934"/>
+    <nd ref="13514150091" lat="50.0650190" lon="19.9436287"/>
+    <nd ref="13514150090" lat="50.0649096" lon="19.9438664"/>
+    <nd ref="13514150089" lat="50.0647475" lon="19.9443441"/>
+    <nd ref="13514150088" lat="50.0646136" lon="19.9447387"/>
+    <nd ref="2420200276" lat="50.0645806" lon="19.9448645"/>
+    <nd ref="11026182315" lat="50.0645718" lon="19.9449302"/>
+    <tag k="bicycle" v="designated"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Basztowa"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="paving_stones"/>
+  </way>
+  <way id="1527224191">
+    <bounds minlat="50.0626276" minlon="19.9320892" maxlat="50.0630088" maxlon="19.9325132"/>
+    <nd ref="13917555513" lat="50.0630088" lon="19.9325132"/>
+    <nd ref="274089875" lat="50.0627134" lon="19.9321825"/>
+    <nd ref="11125076150" lat="50.0626511" lon="19.9321127"/>
+    <nd ref="251688939" lat="50.0626276" lon="19.9320892"/>
+    <tag k="access" v="no"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (Mo-Su 13:00-14:00, 20:00-23:59, 00:00-09:30)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Podwale"/>
+    <tag k="oneway" v="no"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="wikidata" v="Q9365820"/>
+    <tag k="wikipedia" v="pl:Ulica Podwale w Krakowie"/>
+  </way>
+  <way id="1527224192">
+    <bounds minlat="50.0638221" minlon="19.9334222" maxlat="50.0640871" maxlon="19.9337194"/>
+    <nd ref="206372380" lat="50.0640871" lon="19.9337194"/>
+    <nd ref="13917555511" lat="50.0638221" lon="19.9334222"/>
+    <tag k="access" v="no"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="cycleway:left:oneway" v="-1"/>
+    <tag k="cycleway:right" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="3"/>
+    <tag k="lanes:backward" v="1"/>
+    <tag k="lanes:forward" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="motor_vehicle:conditional" v="delivery @ (Mo-Su 13:00-14:00, 20:00-23:59, 00:00-09:30)"/>
+    <tag k="motorcycle" v="yes"/>
+    <tag k="name" v="Juliana Dunajewskiego"/>
+    <tag k="note" v="Geoportal jest nieaktualny, pod koniec 2015 zakończył sie tu remont"/>
+    <tag k="old_name" v="1 Maja"/>
+    <tag k="oneway" v="no"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="oneway:psv" v="no"/>
+    <tag k="psv" v="yes"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="taxi" v="yes"/>
+    <tag k="wikidata" v="Q9365368"/>
+    <tag k="wikipedia" v="pl:Ulica Juliana Dunajewskiego w Krakowie"/>
+  </way>
+  <way id="1527932127">
+    <bounds minlat="50.0650312" minlon="19.9291359" maxlat="50.0668080" maxlon="19.9313187"/>
+    <nd ref="273469160" lat="50.0668080" lon="19.9291359"/>
+    <nd ref="4163271301" lat="50.0667218" lon="19.9292349"/>
+    <nd ref="7132365777" lat="50.0665715" lon="19.9294166"/>
+    <nd ref="6988292760" lat="50.0656880" lon="19.9305147"/>
+    <nd ref="752177521" lat="50.0654537" lon="19.9308060"/>
+    <nd ref="1417479916" lat="50.0653681" lon="19.9309133"/>
+    <nd ref="1417479914" lat="50.0653207" lon="19.9309698"/>
+    <nd ref="240971032" lat="50.0650312" lon="19.9313187"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="highway:category:pl" v="3"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Karmelicka"/>
+    <tag k="oneway" v="no"/>
+    <tag k="parking:left" v="on_kerb"/>
+    <tag k="parking:left:orientation" v="parallel"/>
+    <tag k="parking:right" v="no"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="unsigned_ref" v="2205K"/>
+  </way>
+  <way id="1539173772">
+    <bounds minlat="50.0645718" minlon="19.9449302" maxlat="50.0646245" maxlon="19.9449459"/>
+    <nd ref="2420153436" lat="50.0646245" lon="19.9449459"/>
+    <nd ref="11026182314" lat="50.0646096" lon="19.9449412"/>
+    <nd ref="11026182315" lat="50.0645718" lon="19.9449302"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Westerplatte"/>
+    <tag k="name:de" v="Ostring"/>
+    <tag k="old_name" v="Kolejowa, Andrzeja Potockiego, Marszałka Stalina"/>
+    <tag k="parking:condition:both" v="no_stopping"/>
+    <tag k="sidewalk" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="width" v="10"/>
+    <tag k="wikidata" v="Q9366173"/>
+    <tag k="wikipedia" v="pl:Ulica Westerplatte w Krakowie"/>
+  </way>
+  <way id="1544843764">
+    <bounds minlat="50.0690883" minlon="19.9288666" maxlat="50.0691963" maxlon="19.9307226"/>
+    <nd ref="265517215" lat="50.0691486" lon="19.9288666"/>
+    <nd ref="4943338678" lat="50.0691656" lon="19.9289278"/>
+    <nd ref="3039915909" lat="50.0691698" lon="19.9289945"/>
+    <nd ref="265517214" lat="50.0691963" lon="19.9305310"/>
+    <nd ref="13964593102" lat="50.0691837" lon="19.9305879"/>
+    <nd ref="3039915914" lat="50.0691534" lon="19.9306558"/>
+    <nd ref="6339941699" lat="50.0691223" lon="19.9306932"/>
+    <nd ref="254349500" lat="50.0690883" lon="19.9307226"/>
+    <tag k="cycleway:both" v="no"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="1"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="Henryka Siemiradzkiego"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="oneway:bicycle" v="no"/>
+    <tag k="sidewalk:both" v="separate"/>
+    <tag k="smoothness" v="excellent"/>
+    <tag k="source:maxspeed" v="PL:zone30"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+
+</osm>

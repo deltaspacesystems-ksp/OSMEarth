@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>osmview</AssemblyName>
+    <RootNamespace>OSMView</RootNamespace>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <Optimize>true</Optimize>
+    <!-- Kod moda ma ostrzezenia pisane pod Unity/C# 7.3 - tu nie sa istotne. -->
+    <NoWarn>CS0649;CS0169;CS0414;CS0162</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- TEN SAM kod, ktory idzie do gry. Tester nie ma wlasnej kopii builderow,
+         wiec to, co widac w podgladzie, jest dokladnie tym, co zbuduje KSP. -->
+    <Compile Include="..\..\src\Geo.cs" />
+    <Compile Include="..\..\src\OsmXml.cs" />
+    <Compile Include="..\..\src\AreaKindShared.cs" />
+    <Compile Include="..\..\src\AreaKindColors.cs" />
+    <Compile Include="..\..\src\PackFormat.cs" />
+    <Compile Include="..\..\src\LocalStore.cs" />
+    <Compile Include="..\..\src\RemoteSource.cs" />
+    <Compile Include="..\..\src\MeshData.cs" />
+    <Compile Include="..\..\src\TileGrid.cs" />
+    <Compile Include="..\..\src\TileJob.cs" />
+    <Compile Include="..\..\src\RoadClass.cs" />
+    <Compile Include="..\..\src\RoadTexture.cs" />
+    <Compile Include="..\..\src\RoadMeshBuilder.cs" />
+    <Compile Include="..\..\src\StreetsideBuilder.cs" />
+    <Compile Include="..\..\src\BridgeLifter.cs" />
+    <Compile Include="..\..\src\BarrierBuilder.cs" />
+    <Compile Include="..\..\src\Lod2Store.cs" />
+    <Compile Include="..\..\src\Lod2Format.cs" />
+    <Compile Include="..\..\src\BuildingLod2.cs" />
+    <Compile Include="..\..\src\BuildingMeshBuilder.cs" />
+    <Compile Include="..\..\src\BuildingChurch.cs" />
+    <Compile Include="..\..\src\LanduseMeshBuilder.cs" />
+    <Compile Include="..\..\src\TreeScatter.cs" />
+    <Compile Include="..\..\src\CropAreas.cs" />
+    <Compile Include="..\..\src\ProceduralTree.cs" />
+    <Compile Include="..\..\src\FacadeTexture.cs" />
+    <Compile Include="..\..\src\MaterialPalette.cs" />
+    <Compile Include="..\..\src\MapView.cs" />
+    <Compile Include="..\..\src\MapData.cs" />
+    <Compile Include="..\..\src\MapRenderer.cs" />
+    <Compile Include="..\..\src\MapTileCache.cs" />
+    <Compile Include="..\..\src\LaunchSites.cs" />
+    <Compile Include="..\..\src\Polygon.cs" />
+    <Compile Include="..\..\src\SatelliteSource.cs" />
+    <Compile Include="..\..\src\WorldPlaces.cs" />
+    <Compile Include="..\..\src\MapLabels.cs" />
+    <Compile Include="..\..\src\SagMath.cs" />
+    <Compile Include="..\..\src\PlaceSearch.cs" />
+    <Compile Include="..\..\src\RoadRouter.cs" />
+    <Compile Include="..\..\src\TextFold.cs" />
+    <Compile Include="..\..\src\CountryBorders.cs" />
+    <Compile Include="..\..\src\OsmSettingsMap.cs" />
+  </ItemGroup>
+</Project>
