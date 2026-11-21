@@ -51,7 +51,7 @@ Output: `dist/GameData/OSMRoads/Plugins/OSMRoads.dll`. Copy `dist/GameData/OSMRo
 
 ## License
 
-Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), ODbL.
+Code: [MIT](LICENSE). Map data © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), ODbL.
 
 ---
 
